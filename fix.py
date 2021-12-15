@@ -1,3 +1,8 @@
+#yehezkiel erickson
+#12219017
+#UAS Pemrograman  Komputer /IF 2112
+#Aplikasi GUI berbasi streamlit
+
 #import modul yang dibutuhkan
 import streamlit as st
 import pandas as pd
