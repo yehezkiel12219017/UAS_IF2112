@@ -104,3 +104,6 @@ st.markdown('Negara dengan jumlah produksi nol kumulatif')
 dataI=dataG.sort_values(["produksi"],ascending=[1])
 dataI=dataI.loc[dataI["produksi"]==0]
 dataI[["name","kode_negara","region","sub-region"]]
+'''
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+by Yehezkiel Erickson 12219017
